@@ -24,7 +24,7 @@
     "karma-script-launcher": "^1.0.0",
     "karma-typescript": "^5.2.0",
     "lodash.camelcase": "^4.3.0",
-    "mocha": "^8.2.0",
+    "mocha": "^10.1.0",
     "ramda": "^0.27.1",
     "typescript": "^4.0.5"
   }
